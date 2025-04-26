@@ -57,7 +57,8 @@ A classic **2D Space Invaders** game built in **C++** using the **Raylib** libra
 - Built using [Raylib](https://www.raylib.com/)
 - Inspired by the original *Space Invaders* arcade game
 - [Raylib Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE)
-- Tutorial by [Programming with Nick](https://youtu.be/TGo3Oxdpr5o?si=FmHZXI9qdf-JTE9v)
+- Tutorial and assets by [Programming with Nick](https://youtu.be/TGo3Oxdpr5o?si=FmHZXI9qdf-JTE9v)
+- Music by [Spyros](https://assetstore.unity.com/packages/audio/music/black-swan-vs-white-swan-audio-pack-219984)
 ---
 
 ## ⭐️ Star this repo if you found it useful!
