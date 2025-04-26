@@ -1,6 +1,6 @@
 # 🚀 2D Space Invaders in C++ using Raylib
 
-A classic **2D Space Invaders** game built in **C++** using the **Raylib** library. This project was started using a VS Code starter template and follows clean, modular code practices.
+A classic **2D Space Invaders** game built in **C++** using the **Raylib** library.
 
 ---
 
